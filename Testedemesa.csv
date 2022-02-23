@@ -1,0 +1,6 @@
+String,Valor i,i % 2 != 0 && i % 5 === 0&&primo(i)===true,i%2!=0&&primo(i)===true,primo(i) === true,i % 2 != 0 && i % 5 === 0,i % 2 != 0,i % 5 === 0,else,i++
+[],1,False,False,false,false,"True string.push(""Snap"")",,,2
+[Snap],2,False,False,"true string.push("" Prime"")",,,,,3
+"[""Stap"","" Prime""]",3,False,"True string.push(""SnapPrime"")",,,,,,4
+"[""Stap"","" Prime"",""SnapPrime""]",4,False,False,False,False,False,False,"string.push("" ""+4""",5
+"[""Stap"","" Prime"",""SnapPrime"",""  4""]",5,"True string.push(""SnapCracklePrime"")",,,,,,,6
